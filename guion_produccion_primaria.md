@@ -39,5 +39,5 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa 
 
 ## Vídeo de la sesión
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m106CJYZ8TA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
